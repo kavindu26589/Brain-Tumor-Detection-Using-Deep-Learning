@@ -71,5 +71,5 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-detection-using-deep-learning.git
+git clone https://github.com/kavindu26589/brain-tumor-detection-using-deep-learning.git
 cd brain-tumor-detection-using-deep-learning
